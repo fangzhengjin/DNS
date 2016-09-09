@@ -11,15 +11,15 @@ $TTL 1D
 
 
 ;telegram
-telegram.org 						IN A 149.154.167.99 
-www.telegram.org 					IN A 149.154.167.99 
-desktop.telegram.org 					IN A 149.154.167.99 
-core.telegram.org 					IN A 149.154.167.99
-updates.tdesktop.com 					IN A 149.154.167.80 
-web.telegram.org 					IN A 149.154.167.120 
-flora.web.telegram.org 					IN A 149.154.171.22
-telegram.me 						IN A 149.154.167.118 
-www.telegram.m					 	IN A 149.154.167.118
+telegram.org 						IN A 		149.154.167.99
+www.telegram.org 					IN A 		149.154.167.99
+desktop.telegram.org 					IN A 		149.154.167.99
+core.telegram.org 					IN A 		149.154.167.99
+updates.tdesktop.com 					IN A 		149.154.167.80
+web.telegram.org 					IN A 		149.154.167.120
+flora.web.telegram.org 					IN A 		149.154.171.22
+telegram.me 						IN A 		149.154.167.118
+www.telegram.m					 	IN A 		149.154.167.118
 
 ;vimeo.com
 vimeo.com						IN A		104.156.85.217
@@ -27,9 +27,9 @@ player.vimeo.com					IN A		104.156.81.217
 
 ;tumblr
 
-tumblr.com 						IN A 		182.239.95.136
-*.tumblr.com 						IN A 		182.239.95.136
-*.assets.tumblr.com 					IN A 		182.239.95.136
+tumblr.com 						IN A 		218.254.1.13
+*.tumblr.com 						IN A 		218.254.1.13
+*.assets.tumblr.com 					IN A 		218.254.1.13
 ;GOOGLE
 securetoken.googleapis.com 				IN A 		220.255.2.153
 firebasestorage.googleapis.com 				IN A 		220.255.2.153
@@ -42,9 +42,9 @@ mtalk.google.com					IN A		220.255.2.153
 abc.xyz							IN A		220.255.2.153
 dl.google.com						IN A		203.208.39.228
 google.com						IN A		220.255.2.153
-gcr.io							IN A		182.239.127.137
-www.gcr.io						IN A		182.239.127.137
-com.google						IN A		182.239.127.137
+gcr.io							IN A		218.254.1.13
+www.gcr.io						IN A		218.254.1.13
+com.google						IN A		218.254.1.13
 ingress.com                                             IN A            72.14.249.180
 
 *.android.com						IN A		220.255.2.153
@@ -59,28 +59,28 @@ ingress.com                                             IN A            72.14.24
 *.googleadservices.com					IN A		203.208.43.77
 
 
-*.gvt0.com						IN A		182.239.95.136
-*.gvt1.com						IN A		182.239.95.136
-*.gvt2.com						IN A		182.239.95.136
-*.gvt3.com						IN A		182.239.95.136
+*.gvt0.com						IN A		218.254.1.13
+*.gvt1.com						IN A		218.254.1.13
+*.gvt2.com						IN A		218.254.1.13
+*.gvt3.com						IN A		218.254.1.13
 
 ;youtube
-youtu.be						IN A		182.239.95.136
-youtube.com						IN A		182.239.95.136
-*.ytimg.com						IN A		182.239.127.137
-*.youtu.be						IN A		182.239.127.137
-*.youtube.com						IN A		182.239.127.137
-*.googlevideo.com					IN A		182.239.127.137
+youtu.be						IN A		218.254.1.13
+youtube.com						IN A		218.254.1.13
+*.ytimg.com						IN A		218.254.1.13
+*.youtu.be						IN A		218.254.1.13
+*.youtube.com						IN A		218.254.1.13
+*.googlevideo.com					IN A		218.254.1.13
 
 
 ;gstaticStart
 fonts.gstatic.com					IN A		203.208.43.88
-*.ggpht.com						IN A		182.239.95.136
+*.ggpht.com						IN A		218.254.1.13
 *.gstatic.com						IN A		220.255.2.153
 
 ;GoogleapisStart
-goo.gl							IN A		182.239.127.137
-g.co							IN A		182.239.127.137
+goo.gl							IN A		218.254.1.13
+g.co							IN A		218.254.1.13
 app.simplenote.com					IN A		72.14.246.169
 *.googleapis.com					IN A		220.255.2.153
 *.2mdn.net						IN A		220.255.2.153
@@ -102,14 +102,14 @@ google.cn						IN A		203.208.43.114
 fb.me							IN A 		173.252.81.7
 messages-facebook.com					IN A		173.252.81.7
 facebook.net						IN A		173.252.81.7
-facebook.com						IN A		173.252.81.7	
+facebook.com						IN A		173.252.81.7
 fbcdn.net						IN A		31.13.66.9
 scontent.xx.fbcdn.net					IN A		31.13.69.203
 video.xx.fbcdn.net					IN A		31.13.95.14
 
-*.messages-facebook.com					IN A		182.239.127.137
+*.messages-facebook.com					IN A		218.254.1.13
 *.facebook.net						IN A		104.78.23.174
-*.facebook.com						IN A		182.239.127.137
+*.facebook.com						IN A		218.254.1.13
 *.fbcdn.net 						IN A		31.13.95.14
 
 
@@ -150,32 +150,32 @@ promoted.soundcloud.com					IN A		68.232.44.127
 visuals.soundcloud.com					IN A		68.232.44.127
 
 ;twitter
-twitter.com						IN A		104.244.42.1 
-www.twitter.com						IN A		104.244.42.1 
-api.twitter.com						IN A		104.244.42.2 
-mobile.twitter.com					IN A		104.244.42.6 
-support.twitter.com					IN A		104.244.42.7 
-upload.twitter.com					IN A		104.244.42.11 
-tweetdeck.twitter.com					IN A		104.244.42.132 
-tweetdeck.com						IN A		104.244.42.132 
-syndication.twitter.com					IN A		104.244.42.136 
-syndication-o.twitter.com				IN A		104.244.42.136 
-cdn.syndication.twimg.com				IN A		104.244.42.136 
-cdn.syndication.twitter.com				IN A		104.244.42.136 
-cdn.api.twitter.com					IN A		104.244.42.2 
-preview.cdn.twitter.com					IN A		104.244.42.1 
-t.co							IN A		104.244.42.197 
-twitpic.com						IN A		173.236.110.98 
-tinypic.com						IN A		209.17.68.209 
-twimg.com						IN A		104.244.43.199 
+twitter.com						IN A		185.45.5.45
+www.twitter.com						IN A		185.45.5.45
+api.twitter.com						IN A		185.45.5.45
+mobile.twitter.com					IN A		185.45.5.45
+support.twitter.com					IN A		185.45.5.45
+upload.twitter.com					IN A		185.45.5.45
+tweetdeck.twitter.com					IN A		185.45.5.45
+tweetdeck.com						IN A		185.45.5.45
+syndication.twitter.com					IN A		185.45.5.45
+syndication-o.twitter.com				IN A		185.45.5.45
+cdn.syndication.twimg.com				IN A		185.45.5.45
+cdn.syndication.twitter.com				IN A		185.45.5.45
+cdn.api.twitter.com					IN A		185.45.5.45
+preview.cdn.twitter.com					IN A		185.45.5.45
+t.co							IN A		185.45.5.45
+twitpic.com						IN A		173.236.110.98
+tinypic.com						IN A		209.17.68.209
+twimg.com						IN A		199.96.57.3
 
-video.twimg.com						IN A		104.244.43.199
-*.twimg.com						IN A		104.244.43.199 
-*.tinypic.com						IN A		209.17.68.209 
-*.twitpic.com						IN A		173.236.110.98 
-*.t.co							IN A		104.244.42.69 
-*.tweetdeck.com						IN A		104.244.42.132 
-*.twitter.com						IN A		104.244.42.3 
+video.twimg.com						IN A		199.96.57.3
+*.twimg.com						IN A		199.96.57.3
+*.tinypic.com						IN A		209.17.68.209
+*.twitpic.com						IN A		173.236.110.98
+*.t.co							IN A		185.45.5.45
+*.tweetdeck.com						IN A		185.45.5.45
+*.twitter.com						IN A		185.45.5.45
 
 ;wikipedia
 wikipedia.org						IN A		198.35.26.96
@@ -235,7 +235,7 @@ app.box.com						IN A            74.112.184.70
 box.com                                                 IN A            74.112.184.90
 m.box.com 	                                        IN A            74.112.184.85
 support.box.com                                         IN A            104.218.203.34
-www.box.com                                             IN A            74.112.184.85	
+www.box.com                                             IN A            74.112.184.85
 www.box.net                                             IN A            74.112.184.80
 
 play.itunes.apple.com					IN A            118.215.176.66
@@ -248,7 +248,7 @@ init.itunes.apple.com					IN A		118.215.176.66
 itunes.apple.com					IN A		118.215.176.66
 
 search.itunes.apple.com					IN A		118.215.176.66
-		
+
 radio.itunes.apple.com					IN A		23.42.69.185
 radio-services.itunes.apple.com				IN A		23.42.69.185
 radio-activity.itunes.apple.com				IN A		23.42.69.185
@@ -314,7 +314,7 @@ steamcommunity-a.akamaihd.net				IN A		61.213.168.19
 origin-a.akamaihd.net					IN A		58.240.53.194
 
 ;mega
-mega.nz							IN A		154.53.224.166					
+mega.nz							IN A		154.53.224.166
 g.cdn1.mega.co.nz					IN A		117.18.237.188
 
 ;Amazon AWS
@@ -624,3 +624,14 @@ www.flickr.com						IN A		183.177.81.75
 *.google.vu						IN A		220.255.2.153
 *.google.ws						IN A		220.255.2.153
 
+; Disqus Start
+
+disqus.com    						IN A    	23.235.33.134
+www.disqus.com						IN A    	23.235.33.134
+blog.disqus.com						IN A    	23.235.33.134
+help.disqus.com    					IN A		50.18.249.249
+content.disqus.com					IN A    	23.235.33.134
+referrer.disqus.com    					IN A    	23.235.37.134
+apkpure.disqus.com    					IN A    	23.235.37.134
+*.disqus.com						IN A		23.235.33.134
+; Disqus End
